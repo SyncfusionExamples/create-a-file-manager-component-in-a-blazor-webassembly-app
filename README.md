@@ -5,6 +5,7 @@ A quick-start project that helps you create a Syncfusion Blazor File Manager com
 Watch the video now: Coming soon...
 
 Documentation: https://blazor.syncfusion.com/documentation/file-manager/getting-started
+
 Online example: https://blazor.syncfusion.com/demos/file-manager/overview 
 
 ## Project prerequisites
